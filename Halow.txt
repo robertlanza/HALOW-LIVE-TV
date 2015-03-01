@@ -51,10 +51,16 @@
 
 
 ,
-{"url": "https://sites.google.com/site/iptvblogspot/vietnam.m3u", "name": "[COLOR red]Vietnam LIVE TV[/COLOR]"}
+{"url": "https://sites.google.com/site/iptvblogspot/vietnam.m3u", "name": "[COLOR red]Vietnam LIVE TV[/COLOR]"},
+{"url": "https://sites.google.com/site/iptvblogspot/makadonia.m3u ", "name": "[COLOR red]Macedonia LIVE TV[/COLOR]"},{"url": "http://pastebin.com/raw.php?i=e728Rx8G", "name": "[COLOR red]Georgia LIVE TV[/COLOR]"}
 
 
-]
+
+
+,
+{"url": "https://sites.google.com/site/iptvblogspot/usa.m3u", "name": "[COLOR red]USA LIVE TV[/COLOR]"}
+
+
 
 
 
