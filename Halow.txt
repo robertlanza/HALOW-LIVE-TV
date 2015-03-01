@@ -1,4 +1,4 @@
-[{"url": "http://pastebin.com/raw.php?i=e728Rx8G", "name": "[COLOR red]Georgia LIVE TV[/COLOR]},
+[
 {"url": "http://pastebin.com/raw.php?i=TD2Y5qwT", "name": "[COLOR red]Live Football today[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=pXYGX9Zn", "name": "[COLOR red] SPORT  LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=2kSCdUW5", "name": "[COLOR red]KURDISH LIVE TV[/COLOR]"},
