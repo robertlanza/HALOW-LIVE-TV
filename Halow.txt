@@ -27,8 +27,7 @@
 {"url": "https://sites.google.com/site/iptvblogspot/thai.m3u", "name": "[COLOR red]Thai LIVE TV[/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/Korea.m3u", "name": "[COLOR red]Korea LIVE TV[/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/filmon.m3u", "name": "[COLOR red]Filmon LIVE TV[/COLOR]"},
-{"url": "https://sites.google.com/site/iptvblogspot/bulgar_bulsat.m3u", "name": "[COLOR red]Bulgaria LIVE TV[/COLOR]"},{"url": "https://sites.google.com/site/iptvblogspot/cartoons.m3u", "name": "[COLOR red]Cartoons LIVE TV[/COLOR]"},{"url": "https://sites.google.com/site/iptvblogspot/makadonia.m3u ", "name": "[COLOR red]Macedonia LIVE TV[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=e728Rx8G", "name": "[COLOR red]Georgia LIVE TV[/COLOR]}]
+{"url": "https://sites.google.com/site/iptvblogspot/bulgar_bulsat.m3u", "name": "[COLOR red]Bulgaria LIVE TV[/COLOR]"},{"url": "https://sites.google.com/site/iptvblogspot/cartoons.m3u", "name": "[COLOR red]Cartoons LIVE TV[/COLOR]"},{"url": "https://sites.google.com/site/iptvblogspot/makadonia.m3u ", "name": "[COLOR red]Macedonia LIVE TV[/COLOR]"},{"url": "http://pastebin.com/raw.php?i=e728Rx8G", "name": "[COLOR red]Georgia LIVE TV[/COLOR]}]
 
 
 
