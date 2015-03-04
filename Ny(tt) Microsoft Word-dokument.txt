@@ -21,7 +21,7 @@
 {"url": "http://pastebin.com/raw.php?i=GLZZj91i", "name": "[COLOR red]Germany LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=urHtREF2", "name": "[COLOR red]Nepal LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=UN5P0sWx", "name": "[COLOR red]Serbia LIVE TV[/COLOR] "},
-{"url": "http://pastebin.com/raw.php?i=1HENAU5h", "name": " Croatia LIVE TV"},
+{"url": " http://pastebin.com/raw.php?i=NNq28Tsg", "name": " Croatia LIVE TV"},
 {"url": "http://pastebin.com/raw.php?i=9PnVtw74", "name": "[COLOR red]Norway LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=gCn45sZz", "name": "[COLOR red]Espana LIVE TV[/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/thai.m3u", "name": "[COLOR red]Thai LIVE TV[/COLOR]"},
