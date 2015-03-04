@@ -78,5 +78,6 @@
 {"url": "http://youtube", "name": "[COLOR yellow]Want to join us? Do you have your own list?[/COLOR]"},
 {"url": "http://youtube", "name": "[COLOR yellow]Join the fastest growing community for XBMC/KODI[/COLOR]"},
 {"url": "http://youtube", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Buyw6mxq", "name": "KURD99"},
 {"url": "http://youtube", "name": "[COLOR yellow]-----------------------------------------------------[/COLOR]"}
 ]
