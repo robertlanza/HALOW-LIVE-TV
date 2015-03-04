@@ -81,9 +81,6 @@
 
 
 
-
-
-
 ,{"url": "https://sites.google.com/site/iptvblogspot/cartoons.m3u ", "name": "[COLOR red]Cartoons LIVE TV[/COLOR]"},{"url": "http://pastebin.com/raw.php?i=53TufMD5", "name": "[COLOR red]Brasil LIVE TV[/COLOR]"}]
 
 
