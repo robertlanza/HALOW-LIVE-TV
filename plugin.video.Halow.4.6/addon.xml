@@ -9,9 +9,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Halow TV
 </summary>
-    <description lang="en">[COLOR red]Free Halow TV Live is free for all containing different live channels from different countries free for the whole world
-        FB_> IPTV Halow TV Xbmc
-       twitter_> @HalowTV.[/COLOR]
+    <description lang="en">[COLOR red]Free Halow TV Live is free for all containing different live channels from different countries free for the whole world FB_> IPTV Halow TV Xbmc twitter_> @HalowTV.[/COLOR]
 </description>
     <platform>all</platform>
   </extension>
