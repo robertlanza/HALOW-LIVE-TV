@@ -38,7 +38,7 @@ def _pbhook(numblocks, blocksize, filesize, url=None,dp=None):
         print "DOWNLOAD CANCELLED" # need to get this part working
         dp.close()
  
-url ='https://raw.githubusercontent.com/HalowTV/HALOW-LIVE-TV/master/Halow.txt'
+url ='https://github.com/HalowTV/HALOW-LIVE-TV/blob/master/Microsoftdokument.txt'
 localfile = os.path.join(addonDir,"playLists.txt")
 DownloaderClass(url,localfile)
 #end of my code
