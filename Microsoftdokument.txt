@@ -28,11 +28,11 @@
 {"url": "https://sites.google.com/site/iptvblogspot/Korea.m3u", "name": "[COLOR red]Korea LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=jfCg4ueQ", "name": "[COLOR red]INDIA LIVE TV[/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/bulgar_bulsat.m3u", "name": "[COLOR red]Bulgaria LIVE TV[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=B2DkDTkf", "name": "[COLOR red]America LIVE TV[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=EYgCCTYb", "name": "[COLOR red]America LIVE TV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=53TufMD5", "name": "[COLOR red]Brasil LIVE TV[/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/bangladesh.m3u", "name": "[COLOR red]Bangladesh LIVE TV [/COLOR]"},
 {"url": "https://sites.google.com/site/iptvblogspot/asya.m3u", "name": "[COLOR red]Asia LIVE TV[/COLOR]"},
-{"url": "https://sites.google.com/site/iptvblogspot/Baltic.m3u", "name": "[COLOR red]Baltic LIVETV[/COLOR]"}]
+{"url": "https://sites.google.com/site/iptvblogspot/Baltic.m3u", "name": "[COLOR red] BalticLIVETV[/COLOR]"},{"url": "http://pastebin.com/raw.php?i=AiUMpK8q", "name": "[COLOR red]Portugal  LIVETV[/COLOR]"}]
 
 
 

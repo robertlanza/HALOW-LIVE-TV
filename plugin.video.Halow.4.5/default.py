@@ -58,7 +58,7 @@ def Categories():
 	for item in list:
 		mode = 1 if item["url"].find(".plx") > 0 else 2
 		name = common.GetEncodeString(item["name"])
-		AddDir("[COLOR red][{0}][/COLOR]".format(name) ,item["url"], mode, "")
+		AddDir("[COLOR red][{0}][/COLOR]".format(name) ,item["url"], mode, "http://i.ytimg.com/vi/yE4Jxq-3SrM/hqdefault.jpg")
 
 def AddNewList():
 	listName = GetKeyboardText(localizedString(10004).encode('utf-8')).strip()
